@@ -9,5 +9,6 @@
 5. If there is no network, it displays data from Core data. On Refresh, alert displays no network and also the last fetched data timestamp.
 6. On clicking of any city(Row) it takes you to next screen where temp values of that city gets displayed chronologically
 7. Temp values are converted to celsius and gets stored in core data
+8. Added localization for English and Dutch languages
 
 ![image](https://user-images.githubusercontent.com/6167632/137368889-d25812f0-2100-4e1f-9fa8-074d6583be9c.png)
