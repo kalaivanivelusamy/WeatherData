@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  PTR
+
+  
+*/
+
+"Weather" = "Weather" ;
+
+"Refresh" = "Refresh";
+
+"No Internet. Displaying offline data" = "No Internet. Displaying offline data" ;
+
+"Please check the internet connection." = "Please check the internet connection." ;

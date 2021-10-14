@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  PTR
+
+  
+*/
+
+"Weather" = "het weer" ;
+"Refresh" = "verfrissen" ;
+
+"No Internet. Displaying offline data" = "Geen internet. Offline gegevens weergeven" ;
+
+"Please check the internet connection." = "Controleer de internetverbinding.";
